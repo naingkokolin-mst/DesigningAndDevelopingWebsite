@@ -1,0 +1,28 @@
+h1, h2, h3, h4, h5, h6 {
+    color: grey;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+dt {
+    font-size: 1.5em;
+}
+
+dl, li {
+    font-family: Arial;
+}
+
+dd {
+    margin-left: 0px;
+}
+
+li {
+    color: red;
+}
+
+li:contains('rectangle') {
+    color: green;
+}
