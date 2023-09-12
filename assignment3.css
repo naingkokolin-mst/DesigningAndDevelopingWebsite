@@ -23,6 +23,6 @@ li {
     color: red;
 }
 
-li:contains('rectangle') {
+li li {
     color: green;
 }
