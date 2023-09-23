@@ -1,0 +1,11 @@
+a:hover {
+    background-color: white;
+}
+
+a:active {
+    background-color: yellow;
+}
+
+a:visited {
+    background-color: green;
+}
